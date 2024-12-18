@@ -1,6 +1,6 @@
 <div align="center">
   <h3>James Goldie (he/him)</h3>
-  <p>I'm a data journalist, visualisation engineer and climate researcher.</p>
+  <p>I'm a data journalist, visualisation engineer, climate researcher and developer.</p>
   <p>I'm available for hire! <strong><a href="https://jamesgoldie.dev/services">Let's chat.</a></strong></p>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" width="25" height="25" />

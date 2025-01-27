@@ -21,7 +21,7 @@
 
 ### Data journalism
 
-I worked at [360info](https://github.com/360-info) for three years as the Data and Digital Stroytelling Lead, publishing interactive, data-driven graphics under Creative Commons. Some of my more ambitious visuals include:
+I worked at [360info](https://github.com/360-info) for three years as the Data and Digital Stroytelling Lead, publishing interactive, data-driven graphics under Creative Commons. Before that I built data pipelines and graphics to communicate climate change. Some of my more ambitious visuals include:
 
 - **[The Olympics are hotter and more humid than ever](https://360info.org/the-olympics-are-hotter-and-more-humid-than-ever/)**
 - **[Nuclear trade map](https://jamesgoldie.dev/career/portfolio/2024-nucleartrade/)**

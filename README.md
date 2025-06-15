@@ -32,7 +32,7 @@ I worked at [360info](https://github.com/360-info) for three years as the Data a
 ### A few things I've built
 
 - **[Closeread](https://github.com/qmd-lab/closeread)**: easy scrollytelling in Quarto
-- **[Sverto](https://github.com/jimjam-slam/sverto)**: add Svelte components in Quarto and have them react to Observable JavaScript
+- **[quarto-svelte](https://github.com/jimjam-slam/quarto-svelte)**: add Svelte components in Quarto and have them react to Observable JavaScript
 - **[Is it hot right now?](https://isithotrightnow.com)**: compare today's heat across Australia to what's typical
 - **[collateral](https://collateral.jamesgoldie.dev)**: tidily capture side effects in R
 - **[ggflags](https://github.com/jimjam-slam/ggflags)**: add country flags to your ggplots

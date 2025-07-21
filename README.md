@@ -1,7 +1,6 @@
 <div align="center">
   <h3>James Goldie (he/him)</h3>
-  <p>I'm a data journalist, visualisation engineer, climate researcher and developer.</p>
-  <p>I'm available for hire! <strong><a href="https://jamesgoldie.dev/services">Let's chat.</a></strong></p>
+  <p>I'm a data journalist, visualisation engineer, climate researcher and developer. <strong><a href="https://jamesgoldie.dev/services">Let's chat.</a></strong></p>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" width="25" height="25" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="25" height="25" />
@@ -19,6 +18,8 @@
 
 ---
 
+I'm working at [**CounterCurrent**](https://countercurrent.ai) to help the shipping industry decarbonise with smarter routes through the ocean.
+
 ### Data journalism
 
 I worked at [360info](https://github.com/360-info) for three years as the Data and Digital Stroytelling Lead, publishing interactive, data-driven graphics under Creative Commons. Before that I built data pipelines and graphics to communicate climate change. Some of my more ambitious visuals include:
@@ -29,7 +30,7 @@ I worked at [360info](https://github.com/360-info) for three years as the Data a
 - **[The renewables transition](https://jamesgoldie.dev/career/portfolio/2023-energy-transition/)**
 - **[Suburbs most at risk of bushfires](https://360info.org/maps-suburbs-most-at-risk-of-bushfires/)**
 
-### A few things I've built
+### A few other things I've built
 
 - **[Closeread](https://github.com/qmd-lab/closeread)**: easy scrollytelling in Quarto
 - **[quarto-svelte](https://github.com/jimjam-slam/quarto-svelte)**: add Svelte components in Quarto and have them react to Observable JavaScript
